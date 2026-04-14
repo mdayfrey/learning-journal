@@ -3,7 +3,7 @@
 Documenting my journey from complete beginner to DevOps engineer.
 
 ## Month 1 — Foundations
-- Started: [today's date]
+- Started: Apr 14
 - Goal: Learn terminal, Git, and Python basics
 
 ### Day 1
