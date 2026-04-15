@@ -66,3 +66,15 @@
 
 - Teaches core logic without syntax
 - Same concepts as real languages
+
+## What Happens When You Type a URL
+
+1. **You press the key** — your keyboard sends an electrical signal to your operating system
+2. **Browser parses the URL** — it figures out the protocol (https), the domain (google.com), and the path (/)
+3. **DNS lookup** — your computer asks "what's the IP address for google.com?" and gets back something like `142.250.80.46`
+4. **TCP connection** — your computer opens a reliable connection to that IP address (like dialing a phone number and waiting for someone to pick up)
+5. **TLS/SSL handshake** — your browser and the server agree on encryption so nobody can eavesdrop (the "s" in https)
+6. **HTTP request** — your browser sends a message: "GET me the homepage please"
+7. **Server processes it** — the request might hit a load balancer, then a web server, then an application server, then a database
+8. **HTTP response** — the server sends back HTML, CSS, and JavaScript
+9. **Browser renders the page** — it turns that code into the visual page you see
