@@ -2,11 +2,7 @@
 
 Documenting my journey from complete beginner to DevOps engineer.
 
-## Month 1 — Foundations
-- Started: Apr 14
-- Goal: Learn terminal, Git, and Python basics 
+Started: April 14, 2026
 
-### Day 1
-- Set up my dev environment (Homebrew, Python, Git, VS Code)
-- Created my first GitHub repository
-- Learned basic terminal commands
+## Structure
+- `notes/` — Daily learning notes

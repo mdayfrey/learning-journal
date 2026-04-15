@@ -1,6 +1,6 @@
-## Day 2
+# Day 2
 
-### CS50 Week 0: Key Concepts
+## CS50 Week 0: Key Concepts
 
 **Computer Science**
 
