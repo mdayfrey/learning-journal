@@ -6,3 +6,6 @@ Started: April 14, 2026
 
 ## Structure
 - `notes/` — Daily learning notes
+
+## Branches
+- Testing git branching workflow
