@@ -251,6 +251,22 @@ Press `q` to exit the view |
 
 # Git: Other
 
+## Conventional Commits
+
+feat: new feature
+fix: bug fix
+docs: documentation/notes
+chore: maintenance, config
+refactor: restructuring code
+test: adding or fixing tests
+style: formatting only
+
+### Examples
+feat: add user login endpoint
+fix: resolve null pointer in auth
+docs: add 2026-05-04 shell tools notes
+chore: update .gitignore
+
 ## Files & Behaviour
 
 **[ Not commands ]**
