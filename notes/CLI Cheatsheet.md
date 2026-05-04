@@ -1,7 +1,5 @@
 # System (Shell): Commands
 
-<aside>
-
 ## Shell Identification
 
 | **Token (Input)** | **Classification (Type)** | **Function (Behaviour)** |
@@ -162,11 +160,8 @@ open -1 “AppName” file.txt |
 | `ls` `-h` | Command option | Human-readable file sizes (if supported) |
 | `--help` | Command flag | Show command help (common on Linux) |
 | `cd` `~/projects/learning-journal` | Command + expansion | Change to specific path |
-</aside>
 
 # Git: Commands
-
-<aside>
 
 ## Daily Workflow
 
@@ -253,11 +248,8 @@ Press `q` to exit the view |
 | `git stash` | Git command | Save changes temporarily |
 | `git stash pop` | Git command | Restore stashed changes |
 | `git stash list` | Git command | List stashes |
-</aside>
 
 # Git: Other
-
-<aside>
 
 ## Files & Behaviour
 
@@ -284,10 +276,3 @@ Press `q` to exit the view |
             - If file is **not yet added** → `.gitignore` works
             - If file was already committed → `.gitignore` does nothing
         - Does not remove already tracked files
-</aside>
-
-# Other Tools
-
-<aside>
-
-</aside>
