@@ -1,0 +1,6 @@
+# 2026-05-13
+
+CS50P Week 5 + Week 6 — Unit Tests and File I/O (complete)
+- Finished lectures + all problem sets across both weeks
+- Key concepts: pytest, assert, test functions, try/except in tests, pytest.raises, open(), csv.reader, csv.DictReader, csv.DictWriter, tabulate, PIL/Pillow, ImageOps.fit, sys.argv validation, os.path.splitext
+- Problem sets: Testing twttr, Back to the Bank, Refueling, Testing Plates, Lines of Code, Pizza, Scourgify, CS50 Shirt
